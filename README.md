@@ -60,7 +60,7 @@ First thing is to create a virtual environment. There are many ways to do this, 
 ## Running the App
 Running the `main.py`:
 ```commandline
-python main.py
+(women_fashion_classification) ➜ python main.py
 ```
 
 ## Input and Output
