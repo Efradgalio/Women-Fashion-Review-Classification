@@ -66,6 +66,7 @@ python main.py
 ## Input and Output
 After running the code, you will be ask to input the review text.
 Then, there will be 2 predictions output from Logistic Regression and BERT as shown below.
+
 ![result_1](Result.jpeg)
 
 ## License
