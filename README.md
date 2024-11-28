@@ -20,8 +20,10 @@ This is a project to improve an e-commerce platform feedback system by building 
 │   ├── XGBoost_v1.joblib
 │   ├── logreg_v1.joblib
 │   └── tfidf_fit_transform.joblib
+├── LICENSE.txt
 ├── README.md
 ├── Result.jpeg
+├── Technical Report.pdf
 ├── inference.py
 ├── main.py
 ├── notebook_development.ipynb
