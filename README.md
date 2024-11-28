@@ -64,7 +64,24 @@ python main.py
 ```
 
 ## Input and Output
+After running the code, you will be ask to input the review text.
+Then, there will be 2 predictions output from Logistic Regression and BERT as shown below.
 ![result_1](Result.jpeg)
 
+## License
 
+Distributed under the terms of the [MIT](https://opensource.org/licenses/MIT) license, "Women-Fashion-Review-Classification" is free and open source software.
+
+## Issues
+
+If you encounter any problems, please [file an issue](https://github.com/Efradgalio/Women-Fashion-Review-Classification/issues) along with a detailed description.
+
+[python-version]:https://img.shields.io/badge/python-3.11.9-brightgreen.svg
+[latest-version]:https://img.shields.io/badge/version-1.0.0-blue.svg
+[fork-image]:https://img.shields.io/github/forks/Efradgalio/Women-Fashion-Review-Classification
+[fork-url]:https://github.com/Efradgalio/Women-Fashion-Review-Classification/network
+[stars-image]:https://img.shields.io/github/stars/Efradgalio/Women-Fashion-Review-Classification
+[stars-url]:https://github.com/Efradgalio/Women-Fashion-Review-Classification/stargazers
+[license-image]:https://img.shields.io/github/license/Efradgalio/Women-Fashion-Review-Classification
+[license-url]:https://github.com/Efradgalio/Women-Fashion-Review-Classification/blob/main/LICENSE
 
