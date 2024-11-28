@@ -21,6 +21,7 @@ This is a project to improve an e-commerce platform feedback system by building 
 │   ├── logreg_v1.joblib
 │   └── tfidf_fit_transform.joblib
 ├── README.md
+├── Result.jpeg
 ├── inference.py
 ├── main.py
 ├── notebook_development.ipynb
@@ -63,7 +64,7 @@ python main.py
 ```
 
 ## Input and Output
-
+![result_1](Result.jpeg)
 
 
 
